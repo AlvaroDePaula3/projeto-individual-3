@@ -1,0 +1,47 @@
+"filmes": [
+    {
+    "id": 1,
+    "filme": "One Piece Red" 
+    },
+    {
+        "id": 2,
+        "filme": "Wakanda Forever"
+    },
+    {
+        "id": 3,
+        "filme": "Adão Negro"
+    },
+    {
+        "id": 4,
+        "filme": "A luz do demônio"
+    },
+    {
+        "id": 5,
+        "filme": "Lilo, Lilo, Crocodilo"
+    }
+]
+"ingresso": [
+    {
+    "id": 1,
+    "inteira": 20
+    },
+    {
+        "id": 2,
+        "meia": 10
+    }
+]
+
+"salas": [
+    {
+        "id": 1,
+        "sala": 10
+    },
+    {
+        "id": 2,
+        "sala": 20
+    },
+    {
+        "id": 3,
+        "sala": 30
+    }
+]
