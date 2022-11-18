@@ -1,0 +1,28 @@
+#body{
+    background-image: url(https://img.freepik.com/free-vector/cinema-film-strips-blue-background_1017-23456.jpg?auto=format&h=200);
+    background-size: cover;
+}
+
+.div{
+    display: flex;
+    
+}
+
+.button{
+    width: 65px;
+    height: 65px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    margin-left: 250px;
+}
+
+.image{
+    width: 6cm;
+    height: 6cm;
+}
+
+#prices{
+    background-color: rgb(0, 179, 255);
+    height: 4cm;
+    width: 4cm;
+    margin-left: 50px;
+}
