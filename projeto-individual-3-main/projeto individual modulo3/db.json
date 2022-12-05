@@ -1,48 +1,74 @@
 {
-"filmes": [
-    {
-    "id": 1,
-    "filme": "One Piece Red" 
-    },
-    {
-        "id": 2,
-        "filme": "Wakanda Forever"
-    },
-    {
-        "id": 3,
-        "filme": "Adão Negro"
-    },
-    {
-        "id": 4,
-        "filme": "A luz do demônio"
-    },
-    {
-        "id": 5,
-        "filme": "Lilo, Lilo, Crocodilo"
-    }
-],
-"ingresso": [
-    {
-    "id": 1,
-    "inteira": 20
-    },
-    {
-        "id": 2,
-        "meia": 10
-    }
-],
-"salas": [
-    {
+    "filmes": [
+      {
         "id": 1,
-        "sala": 10
-    },
-    {
+        "filme": "One Piece Red",
+        "genero": "Aventura/Ação",
+        "ano": "2022"
+      },
+      {
         "id": 2,
-        "sala": 20
-    },
-    {
+        "filme": "Wakanda Forever",
+        "genero": "Aventura/Ação",
+        "ano": "2022"
+      },
+      {
         "id": 3,
-        "sala": 30
-    }
-]
-}
+        "filme": "Adão Negro",
+        "genero": "Aventura/Ação",
+        "ano": "2022"
+      },
+      {
+        "id": 4,
+        "filme": "A luz do demônio",
+        "genero": "Terror",
+        "ano": "2022"
+      }
+    ],
+    "ingresso": [
+      {
+        "id": 1,
+        "inteira": "20",
+        "cumpom promocional":"não", 
+        "cor": "preto"
+      },
+      {
+        "id": 2,
+        "meia": "10",
+        "cumpom promocional":"não",
+        "cor":"branco"
+      }
+    ],
+    "salas": [
+      {
+        "id": 1,
+        "sala": "10",
+        "números de cadeiras": "50",
+        "tipo": "2D"
+      },
+      {
+        "id": 2,
+        "sala": "20",
+        "números de cadeiras": "50",
+        "tipo": "3D"
+      },
+      {
+        "id": 3,
+        "sala": "30",
+        "números de cadeiras": "50",
+        "tipo": "2D"
+      },
+      {
+        "id": 4,
+        "sala": "40",
+        "números de cadeiras": "50",
+        "tipo": "3D"
+      },
+      {
+        "id": 5,
+        "sala": "50",
+        "números de cadeiras": "50",
+        "tipo": "2D"
+      }
+    ]
+  }
